@@ -1,3 +1,5 @@
+!> 该API疑似被DNS污染, 目前暂时在国内不能访问, 已经联系作者
+
 ?> [API指南](https://api.fantasyzone.cc/#/tu)  
 [返回](PicturesShow/FantasyZone.md "FantasyZone")  
 如果显示`该API出现问题，请联系乔瘦子解决`请关闭代理后再次尝试  

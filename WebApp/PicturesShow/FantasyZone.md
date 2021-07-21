@@ -1,3 +1,5 @@
+!> 该API疑似被DNS污染, 目前暂时在国内不能访问, 已经联系作者
+
 ?> [API指南](https://api.fantasyzone.cc/#/tu)  
 [R18限制级图片查看](PicturesShow/FantasyZone_R18.md)  
 更换图片需要刷新本页

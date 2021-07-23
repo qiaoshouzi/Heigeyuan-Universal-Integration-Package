@@ -2,15 +2,17 @@
 
 ## 导航栏 :id=nav <!-- {docsify-ignore} -->
 
-[查看地图](http://map.heigeyuancz.com:55556)
+[前往邮箱](https://qiye.aliyun.com/)
 
-[前往网盘](https://pan.heigeyuan.com)
+[前往网盘](http://pan.heigeyuancz.com:55557/)
 
-[查看玩家数据](http://plan.heigeyuancz.com)
+[查看地图](http://map.heigeyuancz.com:55556/)
 
-[查看节点实时状态](https://jk.heigeyuan.com)
+[查看玩家数据](http://plan.heigeyuancz.com/)
 
-[查看服务器硬件仪表盘](https://ward.heigeyuan.com)
+[查看节点实时状态](https://jk.heigeyuan.com/)
+
+[查看服务器硬件仪表盘](https://ward.heigeyuan.com/)
 
 Github: [主仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)|[WebApp](https://github.com/qiaoshouzi/heigeyuanWebApp)
 

@@ -10,11 +10,11 @@
 
 单击`点击更新.exe`从云端补齐文件
 
-![](./_img/McAppHelp-1.webp)
+![](https://heigeyuan-web.oss-accelerate.aliyuncs.com/McAppHelp-1.webp)
 
 从云端补齐文件后如图
 
-![](./_img/McAppHelp-2.webp)
+![](https://heigeyuan-web.oss-accelerate.aliyuncs.com/McAppHelp-2.webp)
 
 `HMCL.exe`为游戏启动器
 
@@ -26,7 +26,7 @@
 
 通过**查看本地文件**中的`当前版本Vx.x.x`与**最新版本号**做对比**选择是否更新**
 
-![](./_img/McAppHelp-3.webp)
+![](https://heigeyuan-web.oss-accelerate.aliyuncs.com/McAppHelp-3.webp)
 
 <br>
 <p id="hitokoto">一言: <a href="#/McAppHelp" id="hitokoto_text" target="blank">:D 获取中~</a></p>

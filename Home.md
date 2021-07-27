@@ -18,7 +18,7 @@ Github: [主仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)|[
 
 客户端最新版本号: `V1.1.0`
 
-<div class="olympic-rings"></div>
+<!-- <div class="olympic-rings"></div> -->
 
 <br>
 <p id="hitokoto">一言: <a href="#/Home" id="hitokoto_text" target="blank">:D 获取中~</a></p>

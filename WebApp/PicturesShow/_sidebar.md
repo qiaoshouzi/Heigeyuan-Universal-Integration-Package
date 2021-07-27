@@ -1,5 +1,2 @@
 - [返回首页](Home.md)
 - [Cat :cat:](PicturesShow/Cat.md "Cat")
-- 美图
-  - [FantasyZone](PicturesShow/FantasyZone.md "FantasyZone")
-  - [雫 API](PicturesShow/Lazy_API.md "雫 API")

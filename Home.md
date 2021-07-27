@@ -18,6 +18,10 @@ Github: [主仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)|[
 
 客户端最新版本号: `V1.2.0`
 
+## 公告 :id=announcement <!-- {docsify-ignore} -->
+
+近期将会开启账号转移, 谨防钓鱼邮件
+
 <!-- <div class="olympic-rings"></div> -->
 
 <br>

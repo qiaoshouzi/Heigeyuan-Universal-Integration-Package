@@ -16,7 +16,7 @@ WebApp特供版
 
 Github: [主仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)|[WebApp](https://github.com/qiaoshouzi/heigeyuanWebApp)
 
-客户端最新版本号: `V1.1.0`
+客户端最新版本号: `V1.2.0`
 
 <br>
 <p id="hitokoto">一言: <a href="#/Home" id="hitokoto_text" target="blank">:D 获取中~</a></p>

@@ -1,6 +1,6 @@
 # 最新版本 :id=latest_version
 
-> [源链接](https://heigeyuan-web.oss-accelerate.aliyuncs.com/images/V-Final-14.jpg)
+> [预览](https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@WEB/VNPicture/_img/V-Final-14.jpg)
 >
 > 当前版本: V-Final-14
 >

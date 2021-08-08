@@ -16,7 +16,7 @@
 
 Github: [主仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)|[WebApp](https://github.com/qiaoshouzi/heigeyuanWebApp)
 
-客户端最新版本号: `V1.2.0`
+客户端最新版本号: `V1.2.2`
 
 ## 公告 :id=announcement <!-- {docsify-ignore} -->
 

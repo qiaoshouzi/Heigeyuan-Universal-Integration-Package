@@ -52,7 +52,7 @@
             notFoundPage: true, //自定义404
             loadSidebar: true, //加载自定义侧边栏
             subMaxLevel: 6,
-            basePath: 'https://heigeyuan-web.oss-accelerate.aliyuncs.com/Web/',
+            // basePath: 'https://heigeyuan-web.oss-accelerate.aliyuncs.com/Web/',
             darklightTheme: {
                 siteFont: 'Source Sans Pro,Helvetica Neue,Arial,sans-serif',
                 defaultTheme: 'light | dark',
@@ -68,7 +68,22 @@
                 position: "top",
                 color: "var(--theme-color,#42b983)",
                 height: "4px",
-            }
+            },
+            plugins: [
+                function(hook) {
+                    var footer = [
+                        `<hr/>`,
+                        '<footer>',
+                        '<p id="hitokoto">一言: <a href="#/McAppHelp" id="hitokoto_text" target="blank">:D 获取中~</a></p>',
+                        '<div title="MySSL 安全签章" id="myssl_seal" onclick="window.open("https://myssl.com/seal/detail?domain=www.heigeyuan.com","MySSL安全签章","height=800,width=470,top=0,right=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no,status=no")" style="text-align: center"><img src="https://sealres.myssl.com/seal/img/1x/seal.svg?domain=www.heigeyuan.com" alt="MySSL 安全签章" style="width: 100px; height: auto; cursor: pointer"></div>',
+                        '</footer>'
+                    ].join('');
+
+                    hook.afterEach(function(html) {
+                        return html + footer;
+                    });
+                }
+            ]
         }
         fetch('https://v1.hitokoto.cn')
             .then(response => response.json())

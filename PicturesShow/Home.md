@@ -2,7 +2,7 @@
 
 [Cat :cat:](PicturesShow/Cat.md "Cat")
 
-## 美图 :id=1
+## 美图 :id=hentai
 [FantasyZone](PicturesShow/FantasyZone.md "FantasyZone")
 
 [雫 API](PicturesShow/Lazy_API.md "雫 API")

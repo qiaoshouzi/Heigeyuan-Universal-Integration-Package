@@ -1,5 +1,6 @@
 - [首页](Home.md)
 - [节点](nodes.md)
+- [下载中心](download.md)
 - [图片展示](PicturesShow/Home.md)
 - [客户端安装指南](McAppHelp.md)
 - VNの地图线路图

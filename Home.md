@@ -4,15 +4,9 @@
 
 [前往邮箱](https://qiye.aliyun.com/)
 
-[前往网盘](http://app.heigeyuancz.com:55567)
-
-[查看地图](http://app.heigeyuancz.com:55556)
-
-[查看玩家数据](http://app.heigeyuancz.com:55566)
-
 [查看节点实时状态](https://stats.uptimerobot.com/7OAE8hmLk0)
 
-[查看服务器硬件仪表盘](https://ward.heigeyuancz.com/)
+<!-- [查看服务器硬件仪表盘](https://ward.heigeyuancz.com/) -->
 
 Github: [主仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)|[WebApp](https://github.com/qiaoshouzi/heigeyuanWebApp)
 

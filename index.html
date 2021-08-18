@@ -72,11 +72,22 @@
             plugins: [
                 function(hook) {
                     var footer = [
-                        `<hr/>`,
+                        '<hr/>',
                         '<footer>',
                         '<p id="hitokoto">一言: <a href="#/McAppHelp" id="hitokoto_text" target="blank">:D 获取中~</a></p>',
                         '<div title="MySSL 安全签章" id="myssl_seal" onclick="window.open("https://myssl.com/seal/detail?domain=www.heigeyuan.com","MySSL安全签章","height=800,width=470,top=0,right=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no,status=no")" style="text-align: center"><img src="https://sealres.myssl.com/seal/img/1x/seal.svg?domain=www.heigeyuan.com" alt="MySSL 安全签章" style="width: 100px; height: auto; cursor: pointer"></div>',
-                        '</footer>'
+                        '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7789356049387167"',
+                        '     crossorigin="anonymous">< /script>',
+                        '<!-- Demo2 -->',
+                        '<ins class="adsbygoogle"',
+                        '     style="display:block"',
+                        '     data-ad-client="ca-pub-7789356049387167"',
+                        '     data-ad-slot="4217536599"',
+                        '     data-ad-format="auto"',
+                        '     data-full-width-responsive="true"></ins>',
+                        '<script>',
+                        '     (adsbygoogle = window.adsbygoogle || []).push({});',
+                        '< /script>',
                     ].join('');
 
                     hook.afterEach(function(html) {

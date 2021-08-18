@@ -1,5 +1,6 @@
 - [首页](Home.md)
 - [节点](nodes.md)
+- [玩家守则](rules.md)
 - [帮助中心](Help/Home.md)
 - [下载中心](download.md)
 <!-- - [图片展示](PicturesShow/Home.md) -->

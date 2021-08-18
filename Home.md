@@ -4,19 +4,19 @@
 
 [前往邮箱](https://qiye.aliyun.com/)
 
-[前往网盘](http://app.heigeyuan.com:55567)
+[前往网盘](http://app.heigeyuancz.com:55567)
 
-[查看地图](http://app.heigeyuan.com:55556)
+[查看地图](http://app.heigeyuancz.com:55556)
 
-[查看玩家数据](http://app.heigeyuan.com:55566)
+[查看玩家数据](http://app.heigeyuancz.com:55566)
 
-[查看节点实时状态](https://jk.heigeyuan.com/)
+[查看节点实时状态](https://stats.uptimerobot.com/7OAE8hmLk0)
 
-[查看服务器硬件仪表盘](https://ward.heigeyuan.com/)
+[查看服务器硬件仪表盘](https://ward.heigeyuancz.com/)
 
 Github: [主仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)|[WebApp](https://github.com/qiaoshouzi/heigeyuanWebApp)
 
-客户端最新版本号: `V1.2.2`
+客户端最新版本号: `V2.0.0`
 
 ## 公告 :id=announcement <!-- {docsify-ignore} -->
 

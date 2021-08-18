@@ -11,6 +11,7 @@
     <!-- Fonts -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-darklight-theme/dist/style.min.css" />
+    <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
 
     <style>
         /* 字体大小 */
@@ -76,8 +77,9 @@
                         '<footer>',
                         '<p id="hitokoto">一言: <a href="#/McAppHelp" id="hitokoto_text" target="blank">:D 获取中~</a></p>',
                         '<div title="MySSL 安全签章" id="myssl_seal" onclick="window.open("https://myssl.com/seal/detail?domain=www.heigeyuan.com","MySSL安全签章","height=800,width=470,top=0,right=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no,status=no")" style="text-align: center"><img src="https://sealres.myssl.com/seal/img/1x/seal.svg?domain=www.heigeyuan.com" alt="MySSL 安全签章" style="width: 100px; height: auto; cursor: pointer"></div>',
-                        '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7789356049387167"',
-                        '     crossorigin="anonymous">',
+                        // '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7789356049387167"',
+                        // '     crossorigin="anonymous">',
+                        '<amp-auto-ads type="adsense" data-ad-client="ca-pub-7789356049387167"></amp-auto-ads>',
                     ].join('');
 
                     hook.afterEach(function(html) {

@@ -2,6 +2,8 @@
 
 ## 导航栏 :id=nav <!-- {docsify-ignore} -->
 
+[HSkin](https://hskin.icu)
+
 [前往邮箱](https://qiye.aliyun.com/)
 
 [查看节点实时状态](https://stats.uptimerobot.com/7OAE8hmLk0)

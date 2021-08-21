@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>黑鸽院</title>
+    <title>HSkin</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Description">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -11,7 +11,6 @@
     <!-- Fonts -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-darklight-theme/dist/style.min.css" />
-    <!-- <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script> -->
 
     <style>
         /* 字体大小 */
@@ -46,47 +45,18 @@
     <div id="app">加载中~</div>
     <script>
         window.$docsify = {
-            name: '黑鸽院',
-            nameLink: '/#/Home',
-            repo: 'qiaoshouzi/HeiGeYuan-General-Warehouse',
             homepage: 'Home.md',
-            notFoundPage: true, //自定义404
-            loadSidebar: true, //加载自定义侧边栏
-            subMaxLevel: 6,
-            basePath: 'https://heigeyuan-web.oss-accelerate.aliyuncs.com/Web/',
+            hideSidebar: true,
+            // basePath: 'https://heigeyuan-web.oss-accelerate.aliyuncs.com/Web/skin/',
             darklightTheme: {
                 siteFont: 'Source Sans Pro,Helvetica Neue,Arial,sans-serif',
                 defaultTheme: 'light | dark',
-            },
-            search: {
-                maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-                paths: 'auto',
-                placeholder: '搜索...',
-                noData: '未找到结果，请换一个关键词重试',
-                depth: 6,
             },
             progress: {
                 position: "top",
                 color: "var(--theme-color,#42b983)",
                 height: "4px",
             },
-            plugins: [
-                function(hook) {
-                    var footer = [
-                        '<hr/>',
-                        '<footer>',
-                        '<p id="hitokoto">一言: <a href="#/McAppHelp" id="hitokoto_text" target="blank">:D 获取中~</a></p>',
-                        '<div title="MySSL 安全签章" id="myssl_seal" onclick="window.open("https://myssl.com/seal/detail?domain=www.heigeyuan.com","MySSL安全签章","height=800,width=470,top=0,right=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no,status=no")" style="text-align: center"><img src="https://sealres.myssl.com/seal/img/1x/seal.svg?domain=www.heigeyuan.com" alt="MySSL 安全签章" style="width: 100px; height: auto; cursor: pointer"></div>',
-                        // '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7789356049387167"',
-                        // '     crossorigin="anonymous">',
-                        // '<amp-auto-ads type="adsense" data-ad-client="ca-pub-7789356049387167"></amp-auto-ads>',
-                    ].join('');
-
-                    hook.afterEach(function(html) {
-                        return html + footer;
-                    });
-                }
-            ]
         }
         fetch('https://v1.hitokoto.cn')
             .then(response => response.json())
@@ -108,11 +78,7 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.js"></script>
     <!-- 图片缩放插件 -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code"></script>
-    <!-- 拷贝代码 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
     <!-- 阅读进度条插件 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-    <!-- 搜索插件 -->
 </body>
 
 </html>

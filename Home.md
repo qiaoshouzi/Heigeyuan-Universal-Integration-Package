@@ -4,8 +4,6 @@
 
 [HSkin](https://hskin.icu)
 
-[前往邮箱](https://qiye.aliyun.com/)
-
 [查看节点实时状态](https://stats.uptimerobot.com/7OAE8hmLk0)
 
 <!-- [查看服务器硬件仪表盘](https://ward.heigeyuancz.com/) -->
